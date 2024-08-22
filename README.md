@@ -1,4 +1,7 @@
-<h1 align="center">Olá! Eu sou Davi Moreira 🖐️</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFDD00&center=true&vCenter=true&width=435&lines=Olá+Me+chamo+Davi+Moreira+🖐️" alt="Typing SVG" />
+</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/daavimoreira/">
@@ -9,14 +12,18 @@
   </a>
 </p>
 
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daavim&show_icons=true&theme=highcontrast" alt="Davi's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daavim&theme=highcontrast" alt="Davi's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavim&layout=compact&theme=highcontrast" alt="Top Langs" />
 </p>
 
 ---
 
-## Tecnologias!
+## 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -27,13 +34,26 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
 ---
 
-### Sobre mim
+
+## 🌱 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação no IFCE - Campus Aracati
-- 🌱 Atualmente estou aprendendo desenvolvimento back-end com Django
+- 🌱 Atualmente aprendendo desenvolvimento back-end com Django
+- 🐧 Entusiasta de Tecnologia
+
+---
+
+## 📊 Atividade Recente
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daavim&theme=react-dark" alt="Contribution Graph" />
+</p>
 
 ---
