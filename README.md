@@ -17,8 +17,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=daavim&show_icons=true&theme=highcontrast" alt="Davi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daavim&theme=highcontrast" alt="Davi's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavim&layout=compact&theme=highcontrast" alt="Top Langs" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daavim&theme=highcontrast" alt="Davi's GitHub Streak" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavim&layout=compact&theme=highcontrast" alt="Top Langs" /
 </p>
 
 ---
