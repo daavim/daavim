@@ -15,13 +15,17 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=daavim&show_icons=true&theme=highcontrast" alt="Davi's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=daavim&theme=highcontrast" alt="Davi's GitHub Streak" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavim&layout=compact&theme=highcontrast" alt="Top Langs" /
+<p style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=daavim&show_icons=true&theme=highcontrast" alt="Davi's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daavim&layout=compact&theme=highcontrast" alt="Top Langs"/>
+  
 </p>
 
+
+
+
 ---
+
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -39,6 +43,7 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
+
 ---
 
 
@@ -48,12 +53,15 @@
 - 🌱 Atualmente aprendendo desenvolvimento back-end com Django
 - 🐧 Entusiasta de Tecnologia
 
+
 ---
+
 
 ## 📊 Atividade Recente
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=daavim&theme=react-dark" alt="Contribution Graph" />
 </p>
+
 
 ---
