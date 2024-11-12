@@ -50,7 +50,7 @@
 ## ⚡ Sobre mim
 
 - 🎓 Estudante de Ciência da Computação no IFCE - Campus Aracati
-- 🌱 Atualmente aprendendo desenvolvimento back-end com Django
+- 🌱 Atualmente focado no desenvolvimento back-end com Django
 - 🐧 Entusiasta de Tecnologia
 
 
